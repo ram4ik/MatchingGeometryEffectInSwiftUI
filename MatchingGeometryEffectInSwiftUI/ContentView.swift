@@ -16,6 +16,9 @@ struct ContentView: View {
             SwopView().tabItem {
                 Image(systemName: "2.circle.fill")
             }
+            AdaptiveView().tabItem {
+                Image(systemName: "3.circle.fill")
+            }
         }
     }
 }

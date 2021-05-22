@@ -13,6 +13,7 @@
 		952A312E26594A5F00E5D01F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952A312D26594A5F00E5D01F /* Preview Assets.xcassets */; };
 		952A313626594A8000E5D01F /* MatchFrameExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313526594A8000E5D01F /* MatchFrameExample.swift */; };
 		952A313826594F1000E5D01F /* SwopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313726594F1000E5D01F /* SwopView.swift */; };
+		952A313A265952C700E5D01F /* ConditionalStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A3139265952C700E5D01F /* ConditionalStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		952A312F26594A5F00E5D01F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		952A313526594A8000E5D01F /* MatchFrameExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchFrameExample.swift; sourceTree = "<group>"; };
 		952A313726594F1000E5D01F /* SwopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwopView.swift; sourceTree = "<group>"; };
+		952A3139265952C700E5D01F /* ConditionalStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				952A312C26594A5F00E5D01F /* Preview Content */,
 				952A313526594A8000E5D01F /* MatchFrameExample.swift */,
 				952A313726594F1000E5D01F /* SwopView.swift */,
+				952A3139265952C700E5D01F /* ConditionalStack.swift */,
 			);
 			path = MatchingGeometryEffectInSwiftUI;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				952A313826594F1000E5D01F /* SwopView.swift in Sources */,
 				952A312726594A5D00E5D01F /* MatchingGeometryEffectInSwiftUIApp.swift in Sources */,
 				952A313626594A8000E5D01F /* MatchFrameExample.swift in Sources */,
+				952A313A265952C700E5D01F /* ConditionalStack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -12,6 +12,7 @@
 		952A312B26594A5F00E5D01F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952A312A26594A5F00E5D01F /* Assets.xcassets */; };
 		952A312E26594A5F00E5D01F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952A312D26594A5F00E5D01F /* Preview Assets.xcassets */; };
 		952A313626594A8000E5D01F /* MatchFrameExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313526594A8000E5D01F /* MatchFrameExample.swift */; };
+		952A313826594F1000E5D01F /* SwopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313726594F1000E5D01F /* SwopView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		952A312D26594A5F00E5D01F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		952A312F26594A5F00E5D01F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		952A313526594A8000E5D01F /* MatchFrameExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchFrameExample.swift; sourceTree = "<group>"; };
+		952A313726594F1000E5D01F /* SwopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwopView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				952A312F26594A5F00E5D01F /* Info.plist */,
 				952A312C26594A5F00E5D01F /* Preview Content */,
 				952A313526594A8000E5D01F /* MatchFrameExample.swift */,
+				952A313726594F1000E5D01F /* SwopView.swift */,
 			);
 			path = MatchingGeometryEffectInSwiftUI;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				952A312926594A5D00E5D01F /* ContentView.swift in Sources */,
+				952A313826594F1000E5D01F /* SwopView.swift in Sources */,
 				952A312726594A5D00E5D01F /* MatchingGeometryEffectInSwiftUIApp.swift in Sources */,
 				952A313626594A8000E5D01F /* MatchFrameExample.swift in Sources */,
 			);

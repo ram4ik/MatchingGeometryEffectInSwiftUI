@@ -13,6 +13,9 @@ struct ContentView: View {
             MatchFrameExample().tabItem {
                 Image(systemName: "1.circle.fill")
             }
+            SwopView().tabItem {
+                Image(systemName: "2.circle.fill")
+            }
         }
     }
 }

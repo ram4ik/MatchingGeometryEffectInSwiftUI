@@ -19,6 +19,9 @@ struct ContentView: View {
             AdaptiveView().tabItem {
                 Image(systemName: "3.circle.fill")
             }
+            CatCollectionView().tabItem {
+                Image(systemName: "4.circle.fill")
+            }
         }
     }
 }

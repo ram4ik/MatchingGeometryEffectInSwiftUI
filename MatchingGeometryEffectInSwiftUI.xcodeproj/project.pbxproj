@@ -17,6 +17,7 @@
 		952A313C265957B100E5D01F /* AdaptiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313B265957B100E5D01F /* AdaptiveView.swift */; };
 		952A313E265A2BCE00E5D01F /* CatCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313D265A2BCE00E5D01F /* CatCollectionView.swift */; };
 		95910A14265BB67B00D02934 /* CirclePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A13265BB67B00D02934 /* CirclePickerView.swift */; };
+		95910A16265BBAF500D02934 /* SliderPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A15265BBAF500D02934 /* SliderPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		952A313B265957B100E5D01F /* AdaptiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveView.swift; sourceTree = "<group>"; };
 		952A313D265A2BCE00E5D01F /* CatCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatCollectionView.swift; sourceTree = "<group>"; };
 		95910A13265BB67B00D02934 /* CirclePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclePickerView.swift; sourceTree = "<group>"; };
+		95910A15265BBAF500D02934 /* SliderPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				952A313B265957B100E5D01F /* AdaptiveView.swift */,
 				952A313D265A2BCE00E5D01F /* CatCollectionView.swift */,
 				95910A13265BB67B00D02934 /* CirclePickerView.swift */,
+				95910A15265BBAF500D02934 /* SliderPickerView.swift */,
 			);
 			path = MatchingGeometryEffectInSwiftUI;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95910A16265BBAF500D02934 /* SliderPickerView.swift in Sources */,
 				952A312926594A5D00E5D01F /* ContentView.swift in Sources */,
 				952A313826594F1000E5D01F /* SwopView.swift in Sources */,
 				952A313C265957B100E5D01F /* AdaptiveView.swift in Sources */,

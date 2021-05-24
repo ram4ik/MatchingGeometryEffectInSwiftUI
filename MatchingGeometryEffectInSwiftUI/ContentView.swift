@@ -25,6 +25,9 @@ struct ContentView: View {
             CirclePickerView().tabItem {
                 Image(systemName: "5.circle.fill")
             }
+            SliderPickerView().tabItem {
+                Image(systemName: "6.circle.fill")
+            }
         }
     }
 }

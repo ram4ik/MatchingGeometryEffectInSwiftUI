@@ -22,6 +22,9 @@ struct ContentView: View {
             CatCollectionView().tabItem {
                 Image(systemName: "4.circle.fill")
             }
+            CirclePickerView().tabItem {
+                Image(systemName: "5.circle.fill")
+            }
         }
     }
 }

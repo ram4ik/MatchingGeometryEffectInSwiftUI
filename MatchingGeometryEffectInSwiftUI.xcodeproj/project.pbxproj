@@ -16,6 +16,7 @@
 		952A313A265952C700E5D01F /* ConditionalStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A3139265952C700E5D01F /* ConditionalStack.swift */; };
 		952A313C265957B100E5D01F /* AdaptiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313B265957B100E5D01F /* AdaptiveView.swift */; };
 		952A313E265A2BCE00E5D01F /* CatCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A313D265A2BCE00E5D01F /* CatCollectionView.swift */; };
+		95910A14265BB67B00D02934 /* CirclePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95910A13265BB67B00D02934 /* CirclePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		952A3139265952C700E5D01F /* ConditionalStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStack.swift; sourceTree = "<group>"; };
 		952A313B265957B100E5D01F /* AdaptiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveView.swift; sourceTree = "<group>"; };
 		952A313D265A2BCE00E5D01F /* CatCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatCollectionView.swift; sourceTree = "<group>"; };
+		95910A13265BB67B00D02934 /* CirclePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				952A3139265952C700E5D01F /* ConditionalStack.swift */,
 				952A313B265957B100E5D01F /* AdaptiveView.swift */,
 				952A313D265A2BCE00E5D01F /* CatCollectionView.swift */,
+				95910A13265BB67B00D02934 /* CirclePickerView.swift */,
 			);
 			path = MatchingGeometryEffectInSwiftUI;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				952A313826594F1000E5D01F /* SwopView.swift in Sources */,
 				952A313C265957B100E5D01F /* AdaptiveView.swift in Sources */,
 				952A313E265A2BCE00E5D01F /* CatCollectionView.swift in Sources */,
+				95910A14265BB67B00D02934 /* CirclePickerView.swift in Sources */,
 				952A312726594A5D00E5D01F /* MatchingGeometryEffectInSwiftUIApp.swift in Sources */,
 				952A313626594A8000E5D01F /* MatchFrameExample.swift in Sources */,
 				952A313A265952C700E5D01F /* ConditionalStack.swift in Sources */,
